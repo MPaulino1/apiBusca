@@ -1,5 +1,5 @@
 1º Desafio - API que faz uma pesquisa no google e devolve o resultado em json: 
-https://apisearch.azurewebsites.net/?search=atak
+https://apisearch.azurewebsites.net/?search=dev
 
 2º Desafio - Cliente para consumir a API:
 https://api-busca.vercel.app/
