@@ -1,3 +1,4 @@
+
 .container-app {
   display: flex;
   flex-direction: column;
@@ -48,8 +49,16 @@
    align-items: baseline;
    justify-content: space-evenly;
    border-radius: 5px;
-   background-color: rgb(199, 252, 225);
+   background-color: rgb(172, 197, 172);
    color: #000;
+   overflow: hidden;
+   white-space: nowrap;
+   text-overflow: ellipsis;
+ }
+ .container-card a {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
  }
  
  h3, span {
@@ -61,5 +70,5 @@
  }
  
  
- 
+
  
